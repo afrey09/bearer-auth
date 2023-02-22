@@ -24,7 +24,7 @@ e.g. npm start
 ### TESTS
 
 How do you run tests? npm test
-Any tests of note? No
+Any tests of note? 
 Describe any tests that you did not complete, skipped, etc N/A
 
 ## UML
