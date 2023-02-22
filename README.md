@@ -7,7 +7,7 @@
  
 
 ### Links and Resources
-GitHub Actions 
+GitHub Actions - https://github.com/afrey09/bearer-auth/actions
 Prod back-end server url
 
 ### Setup
